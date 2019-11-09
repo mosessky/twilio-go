@@ -10,6 +10,7 @@ require (
 	github.com/kevinburke/rest v0.0.0-20191030174917-82a468bd5192
 	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/mattn/go-isatty v0.0.10 // indirect
+	github.com/stretchr/testify v1.4.0
 	github.com/ttacon/builder v0.0.0-20170518171403-c099f663e1c2 // indirect
 	github.com/ttacon/libphonenumber v1.0.1
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
